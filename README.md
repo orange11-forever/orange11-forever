@@ -96,8 +96,8 @@ A polished 20-level flip-coin puzzle built with modern C++ and Qt Multimedia.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=orange11-forever&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orange11-forever&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=orange11-forever&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orange11-forever&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
 
 <sub>Code is the artifact. Curiosity is the engine. · 代码是作品，好奇心是引擎。</sub>
 
