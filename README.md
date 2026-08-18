@@ -56,13 +56,13 @@ Enterprise knowledge and R&D collaboration platform with project workflows, perm
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [CPPJUDGE](https://github.com/orange11-forever/CPPJUDGE)
+### 🎯 [mikuOJ](https://github.com/orange11-forever/mikuOJ)
 
-High-performance C++ sandbox judge built on Linux namespaces, cgroups, chroot, and seccomp.
+Single-machine, multi-language, sandboxed competitive-programming judge with six-language support and nine verdict types.
 
-基于 Linux namespace、cgroups、chroot 与 seccomp 的高性能 C++ 沙箱判题机。
+支持六种语言、九种判决结果的单机安全隔离竞赛判题系统。
 
-`C++17` `Linux` `CMake` `Security`
+`C++20` `Linux` `CMake` `seccomp` `cgroup v2`
 
 </td>
 </tr>
