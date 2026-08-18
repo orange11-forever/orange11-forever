@@ -80,13 +80,13 @@ A document-aware RAG assistant with vector retrieval, multi-turn conversation, a
 </td>
 <td width="50%" valign="top">
 
-### 🪙 [CoinGame](https://github.com/orange11-forever/CoinGame)
+### 🃏 [DouDiZhu](https://github.com/orange11-forever/Doudizhu)
 
-A polished 20-level flip-coin puzzle built with modern C++ and Qt Multimedia.
+A Qt 6 / C++17 Fight the Landlord game featuring single-player AI and server-authoritative online multiplayer.
 
-使用现代 C++ 与 Qt Multimedia 构建的 20 关翻金币益智游戏。
+基于 Qt 6 / C++17 的斗地主卡牌游戏，支持单机 AI 与服务器权威联机对战。
 
-`C++17` `Qt 6` `CMake`
+`C++17` `Qt 6` `CMake` `Networking`
 
 </td>
 </tr>
