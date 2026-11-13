@@ -36,12 +36,42 @@ Building reliable systems where C++ performance meets AI retrieval.
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=A371F7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Qt](https://img.shields.io/badge/Qt-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52)
+![Electron](https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF)
+![CMake](https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=A371F7)
 
 </div>
+
+Technologies I use and explore in these projects.  
+在项目中使用与探索的技术。
+
+| Area · 方向 | Technologies · 技术 |
+| --- | --- |
+| Systems & Desktop · 系统与桌面 | C++17/20 · Qt 6 · Electron · Linux · Network Programming |
+| Web & 3D · Web 与三维 | TypeScript · React · Vite · Three.js · React Three Fiber |
+| AI & Backend · AI 与后端 | Python · Node.js · FastAPI · LangChain · RAG · Multi-Agent Workflows |
+| Data & Storage · 数据与存储 | PostgreSQL · pgvector · SQLite · ChromaDB · MinIO |
+| Engineering & Testing · 工程与测试 | CMake · pnpm · Docker · Git · Vitest · Playwright · pytest · CTest |
 
 ## `03 // Selected Builds` · 精选项目
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏝️ [Astrisle · 星岛工作室](https://github.com/orange11-forever/Astrisle)
+
+A Windows multi-agent desktop workbench combining a 3D island workspace with task handoffs, review flows, and external character models. **Development preview**, with coding and office workflows under active development.
+
+面向 Windows 的多智能体桌面工作台，将 3D 岛屿工作空间、任务交接与审核、外部角色模型结合起来。当前处于**开发预览阶段**，持续探索编程与办公任务协作。
+
+`Electron` `TypeScript` `React` `Three.js / R3F` `Node.js` `SQLite` `Python`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
